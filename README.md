@@ -7,7 +7,7 @@ Cette IA est générale est s'adapte à tout les poireaux.
 - Coefficient d'aggressivité
 - Soin des alliès, attaque sur une cellules vide
 
-# En cours
+# En cours :
 - Amres neutres (builbes, switch, téléportation)
 - Communication entre poireaux et bulbes
 - Algo moins glouton
