@@ -1,5 +1,5 @@
 /*
-Par : Edelrine (alias poiroteur76)
+Par : louis-max
 Commencé le : 20 mai
 Première version stable le 9 juin
 Speudo code :
